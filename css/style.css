@@ -1,0 +1,13 @@
+@font-face{
+    font-family: 'JetBrains Mono';
+    font-display: swap;
+    src: url('../font/JetBrainsMono-Regular.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'LXGW WenKai GB Screen';
+    font-display: swap;
+    src: url('../font/LXGWWenKaiGBScreen.ttf') format("truetype");
+}
+/* body {
+    font-family: 'JetBrains Mono','LXGW WenKai GB Screen';
+} */
